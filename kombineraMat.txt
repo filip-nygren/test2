@@ -1,0 +1,7 @@
+Man kan lägga upp fler ingredienser än 3 på en tallrik. (upp till 4?)
+Man kan alltså skapa tallrikar med ingredienser som inte är en rätt (dvs innehåller fler ingredienser än vad leveln kommer att be dig om.)
+
+Man kan inte kombinera tallrikar överlappande ingredienser. 
+
+När man kombinerar kommer spelet inte vara smart och kolla på vilka orders som finns. 
+Den använder alltså annan logik för att kombinera, se ovan. 
